@@ -10,11 +10,7 @@ A modern, customizable personal portfolio website built with HTML, CSS, and Java
 - Project showcase with images and descriptions
 - Downloadable resume/CV section
 - Social media and contact links
-
-## Demo
-
-![Portfolio Screenshot](./screenshot.png)
-
+- 
 ## Getting Started
 
 1. **Clone the repository:**
@@ -40,10 +36,6 @@ You can deploy your portfolio using GitHub Pages, Netlify, Vercel, or any static
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first.
-
-## License
-
-[MIT](LICENSE)
 
 ---
 
